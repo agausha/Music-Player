@@ -40,7 +40,9 @@
   cursor: pointer;
   user-select: none;
 
-  &:hover {}
+  &:hover {
+    filter: brightness(80%);
+  }
   
 }
 
