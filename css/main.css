@@ -25,6 +25,7 @@ body {
 .progress-container {
   background: hsl(0deg, 0%, 100%);
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .player-container {
