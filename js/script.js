@@ -73,6 +73,9 @@ function loadSong(song) {
   image.src = `img/${song.name}.jpg`;
 }
 
+// Current Song
+let songIdex = 0;
+
 // On Load - Select First Song
 loadSong(songs[0]);
 
