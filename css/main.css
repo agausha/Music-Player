@@ -28,6 +28,7 @@ body {
   cursor: pointer;
   margin: 40px 20px;
   height: 4px;
+  width: 90%;
 }
 
 .player-container {
