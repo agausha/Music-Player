@@ -26,6 +26,7 @@ const songs = [
 
   {
     name: 'selection-3',
+    displayName: 'Human',
   },
 ]
 
