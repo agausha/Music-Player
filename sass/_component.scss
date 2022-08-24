@@ -51,3 +51,11 @@
   top: 3px;
 }
 
+/////////////////////////////////////////
+// MEDIA QUERY: SAMRTPHONE (VERTICAL)
+@media screen and (max-width: 376px) {
+  .player-controls {
+    top: -10px;
+    left: 100px;
+  }
+}

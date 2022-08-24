@@ -73,6 +73,12 @@ body {
   top: 3px;
 }
 
+@media screen and (max-width: 376px) {
+  .player-controls {
+    top: -10px;
+    left: 100px;
+  }
+}
 .player-container {
   height: 500px;
   width: 400px;
