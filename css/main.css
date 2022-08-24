@@ -50,6 +50,7 @@ body {
   position: relative;
   top: -15px;
   left: 120px;
+  width: 200px;
 }
 
 .player-container {
