@@ -39,6 +39,10 @@ body {
   transition: width 0.1s linear;
 }
 
+.duration-wrapper {
+  position: relative;
+}
+
 .player-container {
   height: 500px;
   width: 400px;
