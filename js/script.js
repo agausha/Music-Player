@@ -10,6 +10,9 @@ const prevBtn = document.getElementById('prev');
 const playBtn = document.getElementById('play');
 const nextBtn = document.getElementById('next');
 
+// Check if playing
+let isPlaying = false;
+
 // Play
 function playSong() {}
 
