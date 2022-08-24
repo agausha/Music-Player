@@ -25,3 +25,7 @@ $color-box-shadow-2: hsla(0, 0%, 0%, 0.5);
 html {
   box-sizing: border-box;
 }
+
+body {
+  min-height: 100vh;
+}
