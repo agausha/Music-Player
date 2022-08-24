@@ -32,6 +32,7 @@ const songs = [
 
   {
     name: 'selection-4',
+    displayName: '100 million Dollar',
   },
 ]
 
