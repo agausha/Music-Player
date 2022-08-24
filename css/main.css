@@ -20,4 +20,8 @@ body {
   align-items: center;
   font-family: "Spartan", sans-serif;
   font-size: 12px;
+}
+
+.player-container {
+  height: 500px;
 }/*# sourceMappingURL=main.css.map */
