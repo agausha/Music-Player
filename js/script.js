@@ -83,6 +83,7 @@ function nextSong() {
     songIdex = 0;
   }
   loadSong(songs[songIdex]);
+  playSong();
 }
 
 // On Load - Select First Song
