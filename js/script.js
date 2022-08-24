@@ -39,8 +39,9 @@ const songs = [
   {
     name: 'selection-5',
     displayName: 'Lies about us',
+    artist: 'Avant feat. Nicole Scherzinger',
   },
-]
+];
 
 // Check if playing
 let isPlaying = false;
