@@ -24,3 +24,6 @@ function pauseSong() {
   isPlaying = false;
   music.play();
 }
+
+// Play or Pause Event Listener
+playBtn.addEventListener('click', () => (isPlaying ? pauseSong() : playSong()));
