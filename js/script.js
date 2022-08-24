@@ -76,6 +76,11 @@ function loadSong(song) {
 // Current Song
 let songIdex = 0;
 
+// Next Song 
+function nextSong() {
+
+}
+
 // On Load - Select First Song
 loadSong(songs[songIdex]);
 
