@@ -14,7 +14,9 @@ const nextBtn = document.getElementById('next');
 let isPlaying = false;
 
 // Play
-function playSong() {}
+function playSong() {
+  isPlaying = true;
+}
 
 // Pause
 function pauseSong() {}
