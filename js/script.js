@@ -129,6 +129,9 @@ function updateProgressBar(e) {
   }
 }
 
+// Set Progress Bar
+function setProgressBar(e) {}
+
 // Event Listeners
 prevBtn.addEventListener('click', prevSong);
 nextBtn.addEventListener('click', nextSong);
