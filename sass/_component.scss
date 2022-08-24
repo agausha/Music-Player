@@ -2,7 +2,7 @@
 // PROGRESS
 .progress-container {
   background: $color-primary-white;
-  border-radius: 5px;
+  border-radius: $border--radius-1;
   cursor: pointer;
   margin: 40px 20px;
   height: 4px;
