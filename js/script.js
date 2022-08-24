@@ -38,6 +38,7 @@ const songs = [
 
   {
     name: 'selection-5',
+    displayName: 'Lies about us',
   },
 ]
 
