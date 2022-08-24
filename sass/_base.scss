@@ -29,4 +29,7 @@ html {
 body {
   min-height: 100vh;
   background: $color-primary-4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

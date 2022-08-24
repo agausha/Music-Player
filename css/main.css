@@ -15,4 +15,7 @@ html {
 body {
   min-height: 100vh;
   background: hsl(210deg, 10%, 81%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=main.css.map */
