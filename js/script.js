@@ -11,7 +11,11 @@ const playBtn = document.getElementById('play');
 const nextBtn = document.getElementById('next');
 
 // Music
-const songs = []
+const songs = [
+  {
+    name: 'selection-1',
+  }
+]
 
 // Check if playing
 let isPlaying = false;
