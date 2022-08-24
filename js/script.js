@@ -15,7 +15,8 @@ const songs = [
   {
     name: 'selection-1',
     displayName: 'Where is the love',
-  }
+    artist: 'Black Eyed Peas',
+  },
 ]
 
 // Check if playing
