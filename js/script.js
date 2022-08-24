@@ -83,6 +83,7 @@ function prevSong() {
     songIdex = songs.length -1;
   }
   loadSong(songs[songIdex]);
+  playSong();
 }
 
 // Next Song 
