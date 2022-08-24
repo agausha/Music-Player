@@ -23,6 +23,7 @@ function playSong() {
 // Pause
 function pauseSong() {
   isPlaying = false;
+  playBtn.classList.replace('fa-pause', 'fa-play');
   music.pause();
 }
 
