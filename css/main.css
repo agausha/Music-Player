@@ -63,7 +63,6 @@ body {
       -ms-user-select: none;
           user-select: none;
 }
-
 .player-container {
   height: 500px;
   width: 400px;
