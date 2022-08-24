@@ -57,6 +57,7 @@ body {
   font-size: 30px;
   color: hsl(0deg, 0%, 51%);
   margin-right: 30px;
+  cursor: pointer;
 }
 
 .player-container {
