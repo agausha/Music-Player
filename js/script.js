@@ -35,6 +35,10 @@ const songs = [
     displayName: '100 million Dollar',
     artist: 'DJ Khalid feat Rick Ross, Birdman, Young Jeezy, Lil Wayne,',
   },
+
+  {
+    name: 'selection-5',
+  },
 ]
 
 // Check if playing
