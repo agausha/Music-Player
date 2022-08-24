@@ -22,4 +22,5 @@ function playSong() {
 // Pause
 function pauseSong() {
   isPlaying = false;
+  music.play();
 }
