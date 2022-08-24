@@ -31,6 +31,10 @@ body {
   width: 90%;
 }
 
+.progress {
+  background: hsl(0deg, 1%, 14%);
+}
+
 .player-container {
   height: 500px;
   width: 400px;
