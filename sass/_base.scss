@@ -21,3 +21,7 @@ $color-box-shadow-2: hsla(0, 0%, 0%, 0.5);
   padding: 0;
   border: 0;
 }
+
+html {
+  box-sizing: border-box;
+}
