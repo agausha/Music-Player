@@ -79,6 +79,9 @@ let songIdex = 0;
 // Next Song 
 function nextSong() {
   songIdex++;
+  if (songIdex > songs.length -1) {
+    songIdex = 0;
+  }
 }
 
 // On Load - Select First Song
