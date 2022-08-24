@@ -22,6 +22,10 @@ body {
   font-size: 12px;
 }
 
+.progress-container {
+  background: hsl(0deg, 0%, 100%);
+}
+
 .player-container {
   height: 500px;
   width: 400px;
