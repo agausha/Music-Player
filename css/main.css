@@ -46,6 +46,10 @@ body {
   justify-content: space-between;
 }
 
+.player-controls {
+  position: relative;
+}
+
 .player-container {
   height: 500px;
   width: 400px;
