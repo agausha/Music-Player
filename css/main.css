@@ -27,6 +27,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
   margin: 40px 20px;
+  height: 4px;
 }
 
 .player-container {
