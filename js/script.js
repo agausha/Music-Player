@@ -16,6 +16,7 @@ let isPlaying = false;
 // Play
 function playSong() {
   isPlaying = true;
+  music.play();
 }
 
 // Pause
