@@ -14,6 +14,7 @@ const nextBtn = document.getElementById('next');
 const songs = [
   {
     name: 'selection-1',
+    displayName: 'Where is the love',
   }
 ]
 
