@@ -20,6 +20,7 @@ const songs = [
 
   {
     name: 'selection-2',
+    displayName: 'Take care',
   },
 ]
 
