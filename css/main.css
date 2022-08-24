@@ -42,4 +42,5 @@ body {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+  box-shadow: 0 5px 30px 5px hsla(0deg, 0%, 0%, 0.5);
 }/*# sourceMappingURL=main.css.map */
