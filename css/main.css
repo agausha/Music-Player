@@ -33,4 +33,5 @@ body {
 .img-container {
   height: 300px;
   width: 300px;
+  position: relative;
 }/*# sourceMappingURL=main.css.map */
