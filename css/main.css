@@ -67,6 +67,10 @@ body {
   filter: brightness(80%);
 }
 
+.main-button {
+  font-size: 40px;
+}
+
 .player-container {
   height: 500px;
   width: 400px;
