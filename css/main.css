@@ -58,6 +58,10 @@ body {
   color: hsl(0deg, 0%, 51%);
   margin-right: 30px;
   cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 
 .player-container {
