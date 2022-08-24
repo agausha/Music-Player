@@ -34,6 +34,7 @@ body {
 .progress {
   background: hsl(0deg, 1%, 14%);
   border-radius: 5px;
+  height: 100%;
 }
 
 .player-container {
