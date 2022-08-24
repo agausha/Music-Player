@@ -75,3 +75,6 @@ function loadSong(song) {
 
 // On Load - Select First Song
 loadSong(songs[0]);
+
+// Event Listeners
+prevBtn.addEventListener('click', prevSong);
