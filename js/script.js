@@ -72,3 +72,6 @@ function loadSong(song) {
   music.src = `music/${song.name}.mp3`;
   image.src = `img/${song.name}.jpg`;
 }
+
+// On Load - Select First Song
+loadSong(songs[0]);
