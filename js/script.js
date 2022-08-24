@@ -23,6 +23,10 @@ const songs = [
     displayName: 'Take care',
     artist: 'Drake feat. Rihanna',
   },
+
+  {
+    name: 'selection-3',
+  },
 ]
 
 // Check if playing
