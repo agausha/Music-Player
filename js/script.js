@@ -22,7 +22,7 @@ function playSong() {
 // Pause
 function pauseSong() {
   isPlaying = false;
-  music.play();
+  music.pause();
 }
 
 // Play or Pause Event Listener
