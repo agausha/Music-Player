@@ -12,3 +12,6 @@ const nextBtn = document.getElementById('next');
 
 // Play
 function playSong() {}
+
+// Pause
+function pauseSong() {}
