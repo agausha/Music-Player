@@ -38,5 +38,7 @@
 /////////////////////////////////////////
 // MEDIA QUERY: SAMRTPHONE (VERTICAL)
 @media screen and (max-width: 376px) {
-  .player-container {}
+  .player-container {
+    width: 95vw;
+  }
 }
