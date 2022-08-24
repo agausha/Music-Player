@@ -7,3 +7,4 @@ const progress = document.getElementById('progress');
 const currentTimeEl = document.getElementById('current-time');
 const durationEl = document.getElementById('duration');
 const prevBtn = document.getElementById('prev');
+const playBtn = document.getElementById('play');
