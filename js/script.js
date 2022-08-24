@@ -78,7 +78,7 @@ let songIdex = 0;
 
 // Previous Song 
 function prevSong() {
-  
+  songIdex--;
 }
 
 // Next Song 
