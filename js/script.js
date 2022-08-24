@@ -130,7 +130,9 @@ function updateProgressBar(e) {
 }
 
 // Set Progress Bar
-function setProgressBar(e) {}
+function setProgressBar(e) {
+  const width = this.clientWidth;
+}
 
 // Event Listeners
 prevBtn.addEventListener('click', prevSong);
