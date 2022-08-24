@@ -28,4 +28,8 @@ body {
   background: hsl(0deg, 0%, 91%);
   border-radius: 20px;
   box-shadow: 0 15px 30px 5px hsla(0deg, 0%, 0%, 0.3);
+}
+
+.img-container {
+  height: 300px;
 }/*# sourceMappingURL=main.css.map */
