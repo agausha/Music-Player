@@ -20,4 +20,6 @@ function playSong() {
 }
 
 // Pause
-function pauseSong() {}
+function pauseSong() {
+  isPlaying = false;
+}
